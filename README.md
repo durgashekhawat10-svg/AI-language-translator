@@ -53,7 +53,7 @@ AI-Language-Translator/
 ### Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/AI-Language-Translator.git
+git clone https://github.com/durgashekhawat10-svg/ai-language-translator.git
 ```
 
 ### Navigate to the project folder
