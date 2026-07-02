@@ -9,4 +9,4 @@ This folder contains screenshots of the AI Translator project to demonstrate its
 - Translation results
 - Different translation examples
 
-These images are used in the main README to showcase the project.
+These images are used in the main README to showcase the project in more detail.
