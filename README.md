@@ -30,17 +30,17 @@ This project focuses on implementing a simple, accurate, and easy-to-understand 
 - Python
 - Google Colab
 - Natural Language Processing (NLP)
-- AI Translation Library
+- AI Translation Library like:-
+- googletrans
+- deep-translator
+- ipywidgets
 
-> **Note:** Replace "AI Translation Library" with the actual library you used (e.g., `googletrans`, `deep-translator`, or another package).
-
----
 
 ## 📂 Repository Structure
 
 ```
 AI-Language-Translator/
-│── AI_Language_Translator.ipynb
+│── ai translator project.ipynb
 │── README.md
 │── requirements.txt
 │── LICENSE
@@ -70,7 +70,7 @@ pip install -r requirements.txt
 
 ### Run the project
 
-Open the notebook (`AI_Language_Translator.ipynb`) in:
+Open the notebook (`ai translator project.ipynb`) in:
 
 - Google Colab
 - Jupyter Notebook
@@ -81,16 +81,8 @@ Run all cells sequentially to execute the translator.
 
 ## 📸 Sample Output
 
-You can include screenshots demonstrating:
+It  includes  screenshots demonstrating the working of the project.
 
-- Input text
-- Selected source language
-- Selected target language
-- Translated output
-
-*(Create a `screenshots/` folder and add your images for a more professional repository.)*
-
----
 
 ## 🎯 Learning Outcomes
 
@@ -128,8 +120,9 @@ This project was developed as part of my **Artificial Intelligence Internship at
 
 BCA Student | AI & Generative AI Enthusiast | Python Developer
 
-- GitHub: https://github.com/yourusername
-- LinkedIn: https://linkedin.com/in/your-linkedin-profile
+- GitHub:https://github.com/ks1027
+- LinkedIn: www.linkedin.com/in/durga-shekhawat-64968a3bb
+
 
 ---
 
