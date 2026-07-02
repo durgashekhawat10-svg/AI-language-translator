@@ -65,7 +65,7 @@ cd AI-Language-Translator
 ### Install the required dependencies
 
 ```bash
-pip install -r requirements.txt
+pip install googletrans==4.0.0-rc1
 ```
 
 ### Run the project
