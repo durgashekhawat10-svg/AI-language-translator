@@ -1,12 +1,12 @@
-# 🌍 AI Language Translator
+#  AI Language Translator
 
 An AI-powered language translation project developed using **Python** in **Google Colab**. This project demonstrates how Artificial Intelligence and Natural Language Processing (NLP) can be used to translate text between multiple languages efficiently.
 
-> 💼 Developed as part of my **Artificial Intelligence Internship at CodeAlpha**.
+>  Developed as part of my **Artificial Intelligence Internship at CodeAlpha**.
 
 ---
 
-## 📖 Project Overview
+## Project Overview
 
 The AI Language Translator is a notebook-based project that allows users to translate text from one language to another using Python and AI-based translation libraries. The project was developed in Google Colab to explore multilingual text processing and understand the practical applications of Natural Language Processing (NLP).
 
@@ -14,18 +14,18 @@ This project focuses on implementing a simple, accurate, and easy-to-understand 
 
 ---
 
-## ✨ Features
+##  Features
 
-- 🌍 Translate text between multiple languages
-- 🤖 AI-powered translation
-- ⚡ Fast and accurate results
-- 📚 Simple and beginner-friendly implementation
-- ☁️ Developed using Google Colab
-- 📝 Well-structured Python code
+-  Translate text between multiple languages
+-  AI-powered translation
+-  Fast and accurate results
+-  Simple and beginner-friendly implementation
+-  Developed using Google Colab
+- Well-structured Python code
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Python
 - Google Colab
@@ -36,7 +36,7 @@ This project focuses on implementing a simple, accurate, and easy-to-understand 
 - ipywidgets
 
 
-## 📂 Repository Structure
+##  Repository Structure
 
 ```
 AI-Language-Translator/
@@ -48,12 +48,12 @@ AI-Language-Translator/
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Clone the repository
 
 ```bash
-git clone https://github.com/durgashekhawat10-svg/ai-language-translator.git
+git clone https://github.com/durgashekhawat10-svg/codealpha_task1.git
 ```
 
 ### Navigate to the project folder
@@ -79,12 +79,12 @@ Run all cells sequentially to execute the translator.
 
 ---
 
-## 📸 Sample Output
+## Sample Output
 
 It  includes  screenshots demonstrating the working of the project.
 
 
-## 🎯 Learning Outcomes
+## Learning Outcomes
 
 This project helped me gain practical knowledge in:
 
@@ -97,47 +97,47 @@ This project helped me gain practical knowledge in:
 
 ---
 
-## 🚀 Future Enhancements
+##  Future Enhancements
 
-- 🌐 Support more languages
-- 🎤 Voice-to-text translation
-- 🔊 Text-to-speech output
-- 📷 Image-to-text translation (OCR)
-- 🌍 Web-based user interface using Flask or Streamlit
-- 📱 Mobile application integration
+-  Support more languages
+- voice-to-text translation
+-  Text-to-speech output
+-  Image-to-text translation (OCR)
+-  Web-based user interface using Flask or Streamlit
+-  Mobile application integration
 
 ---
 
-## 📌 Internship Acknowledgement
+##  Internship Acknowledgement
 
 This project was developed as part of my **Artificial Intelligence Internship at CodeAlpha**, where I explored AI concepts by building practical applications using Python.
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Durga Shekhawat**
 
 BCA Student | AI & Generative AI Enthusiast | Python Developer
 
-- GitHub:https://github.com/ks1027
+- GitHub:https://github.com/durgashekhawat10-svg
 - LinkedIn: www.linkedin.com/in/durga-shekhawat-64968a3bb
 
 
 ---
 
-## 🤝 Contributions
+##  Contributions
 
 Contributions, suggestions, and feedback are welcome. Feel free to fork the repository, open issues, or submit pull requests to improve the project.
 
 ---
 
-## ⭐ Support
+##  Support
 
 If you found this project useful, consider giving it a **⭐ Star** on GitHub. Your support is appreciated and motivates me to build more AI-based projects.
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the **MIT License**. See the `LICENSE` file for more information.
