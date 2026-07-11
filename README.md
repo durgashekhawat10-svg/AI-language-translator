@@ -53,7 +53,7 @@ AI-Language-Translator/
 ### Clone the repository
 
 ```bash
-git clone https://github.com/durgashekhawat10-svg/codealpha_task1.git
+git clone https://github.com/durgashekhawat10-svg/AI-language-translator.git
 ```
 
 ### Navigate to the project folder
